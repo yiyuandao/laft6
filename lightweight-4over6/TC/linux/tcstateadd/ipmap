@@ -1,0 +1,2 @@
+#user_ipv6_address  public_Ipv4     port_range  lifetiem
+240c:f:0:ffff::123	192.168.1.13	1024-2048	1200

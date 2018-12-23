@@ -1,0 +1,15 @@
+2012/07/22:
+		update two nic process
+2012/07/19:
+		update pcp request malforma packet 
+2012/07/15:
+		add netlink socket between user space and kerenl
+2012/05/16:
+2012/03/27:
+		Dynamically alloc port range
+		handle alloc port overflow
+
+2011/12/13:
+        define NETLINK_MYTEST in kernel_recv(recv_msg.c) and mess-handl(src/commit.c) 
+2011/12/09:
+        add __BYTE_ORDER in mess-handle(src/pcp.c) and openwrt_cpe(tool.c)

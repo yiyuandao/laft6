@@ -1,0 +1,6 @@
+#opcode and option config file
+
+# map_port_set
+opcode 100 {
+	option 0
+}
